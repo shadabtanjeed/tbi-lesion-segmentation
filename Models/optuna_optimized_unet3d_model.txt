@@ -1,0 +1,5 @@
+Best Epoch: 1
+Best Val Dice: 0.4821
+
+Epoch	Train Loss	Val Loss	Train Dice	Val Dice
+1	0.9403	0.7086	0.2970	0.4821
