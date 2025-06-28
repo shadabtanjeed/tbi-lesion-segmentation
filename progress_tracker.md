@@ -82,4 +82,4 @@
 ---
 
 **Notebook:** `Training_AIMS_TBI_Lesion_Segmentation.ipynb`
-** Model Name:** `best_3dunet_v2_epoch_20.pt`
+**Model Name:** `best_3dunet_v2_epoch_20.pt`
