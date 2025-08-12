@@ -3,3 +3,4 @@ Models/optuna_optimized_unet3d_model.pt
 Models/mask_only_lesion_fix_optuna-unet-tbi-lesion.pt
 Models/all_masks_lesion_fix_optuna_unet3d_model.pt
 Models/all_masks_lesion_fix_v2_optuna_unet3d_model.pt
+/aims_venv
